@@ -1,0 +1,26 @@
+{
+  "ice_door": {
+    "title_en": "ICE at my door",
+    "title_es": "ICE en mi puerta",
+    "grounding_en": "If ICE is at your door, you generally do not have to open the door unless they have a judicial warrant signed by a judge. You can ask them to slide the warrant under the door. You have the right to remain silent. Do not sign anything you do not understand. Ask to speak to a lawyer.",
+    "grounding_es": "Si ICE está en tu puerta, por lo general no tienes que abrir la puerta a menos que tengan una orden judicial firmada por un juez. Puedes pedirles que deslicen la orden por debajo de la puerta. Tienes derecho a guardar silencio. No firmes nada que no entiendas. Pide hablar con un abogado."
+  },
+  "traffic_stop": {
+    "title_en": "Traffic stop",
+    "title_es": "Parada de tráfico",
+    "grounding_en": "During a traffic stop, remain calm. If you are driving, you may be required to show your license and registration. You can ask if you are free to go. You have the right to remain silent about immigration status. Do not consent to a search.",
+    "grounding_es": "Durante una parada de tráfico, mantén la calma. Si estás conduciendo, quizá debas mostrar tu licencia y registro. Puedes preguntar si eres libre de irte. Tienes derecho a guardar silencio sobre tu estatus migratorio. No consientas una inspección."
+  },
+  "workplace_questioning": {
+    "title_en": "Workplace questioning",
+    "title_es": "Interrogatorio en el trabajo",
+    "grounding_en": "If questioned at work, stay calm. You can choose to remain silent and ask to speak to a lawyer. Do not sign documents you do not understand. If anyone asks about immigration status, you can say you choose not to answer and want legal counsel.",
+    "grounding_es": "Si te interrogan en el trabajo, mantén la calma. Puedes guardar silencio y pedir hablar con un abogado. No firmes documentos que no entiendas. Si te preguntan sobre estatus migratorio, puedes decir que prefieres no responder y quieres asesoría legal."
+  },
+  "public_questioning": {
+    "title_en": "Public questioning by law enforcement",
+    "title_es": "Interrogatorio público por parte de la policía",
+    "grounding_en": "If questioned in public by law enforcement, stay calm. You can ask if you are free to leave. You have the right to remain silent. You do not have to answer questions about where you were born or your immigration status. If you are detained, ask for a lawyer.",
+    "grounding_es": "Si la policía te interroga en público, mantén la calma. Puedes preguntar si eres libre de irte. Tienes derecho a guardar silencio. No tienes que responder preguntas sobre dónde naciste o tu estatus migratorio. Si te detienen, pide un abogado."
+  }
+}

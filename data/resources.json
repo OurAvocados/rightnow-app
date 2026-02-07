@@ -1,0 +1,14 @@
+{
+  "resources": [
+    {
+      "name_en": "Find local legal help (directory)",
+      "name_es": "Encontrar ayuda legal local (directorio)",
+      "url": "https://www.immigrationadvocates.org/nonprofit/legaldirectory/"
+    },
+    {
+      "name_en": "Know Your Rights (ACLU)",
+      "name_es": "Conoce tus derechos (ACLU)",
+      "url": "https://www.aclu.org/know-your-rights"
+    }
+  ]
+}
